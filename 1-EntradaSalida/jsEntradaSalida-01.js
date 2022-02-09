@@ -1,8 +1,10 @@
 /*
-Al presionar el  botón, 
+Franco Barrio
+Ejercicio 1
+
+Al presionar el  botón,
 se debe mostrar un mensaje como el siguiente "Esto funciona de maravilla"*/
 function mostrar()
 {
-	alert("HOLAasdasda");
-}
-
+	alert("Esto funciona de maravilla");
+} 
